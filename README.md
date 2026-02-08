@@ -9,24 +9,4 @@
 - Кнопка «Начать заново»
 - Компонентная структура с контейнерами и лэйаутами
 
-## Стек
-- React
-- Vite
-- CSS Modules
-- PropTypes
 
-## Запуск
-1. `npm install`
-2. `npm run dev`
-
-## Скрипты
-- `npm run dev` — запуск dev‑сервера
-- `npm run build` — сборка
-- `npm run preview` — предпросмотр сборки
-- `npm run lint` — ESLint
-- `npm run format` — Prettier
-
-## Структура
-- `src/components/Game` — корневой контейнер и лэйаут
-- `src/components/Information` — статус игры
-- `src/components/Field` — игровое поле
