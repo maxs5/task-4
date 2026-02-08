@@ -1,0 +1,24 @@
+:root {
+  color-scheme: light;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'Space Grotesk', 'Segoe UI', sans-serif;
+  background: radial-gradient(circle at top, #ffe7b8 0%, #f7c7a0 35%, #f3a6a0 65%, #f08fb2 100%);
+  color: #1f1f1f;
+  min-height: 100vh;
+}
+
+button {
+  font-family: inherit;
+}

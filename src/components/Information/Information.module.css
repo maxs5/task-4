@@ -1,0 +1,10 @@
+.info {
+  margin: 0;
+  font-size: 16px;
+  font-weight: 600;
+  color: #1f1f1f;
+  padding: 6px 12px;
+  border-radius: 999px;
+  background: #fff4e6;
+  width: fit-content;
+}
